@@ -5,8 +5,9 @@ github_url: "https://github.com/dpickenstenable/control-aware-risk-scoring"
 description: "Advanced vulnerability prioritization with defense-in-depth analysis across firewalls, EDR, WAF, and network segmentation"
 license: "MIT"
 tier: "contributed"
+contribution_agreement_date: 2026-07-28T20:09:31Z
 tags: ["tenable", "risk-scoring", "firewall", "edr", "waf", "defense-in-depth", "compensating-controls", "segmentation"]
-integrations: ["Tenable", "Palo Alto", "Fortinet", "Cisco", "CrowdStrike", "SentinelOne", "Microsoft Sentinel"]
+integrations: ["Tenable", "Palo Alto", "Fortinet", "Cisco", "CrowdStrike", "SentinelOne"]
 date_added: 2026-06-23
 compatible_platforms: ["Claude Code"]
 invocation: "/control-aware-risk-scoring"
